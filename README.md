@@ -15,7 +15,7 @@ This project consists of two parts:
 
    ```bash
    cd backend
-  ```
+   ```
 2. **Install Dependacies:**
 
     ```bash
@@ -39,7 +39,7 @@ copy contents of the `.env.example` file to a `.env` file and add the `DATABASE_
 
    ```bash
    cd ../frontend
-  ```
+   ```
 2. **Install Dependacies:**
     ```bash
     npm install
